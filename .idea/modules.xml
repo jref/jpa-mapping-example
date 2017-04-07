@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-mapping.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-mapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-mapping_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-mapping_main.iml" group="jpa-mapping" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-mapping_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-mapping_test.iml" group="jpa-mapping" />
+    </modules>
+  </component>
+</project>
